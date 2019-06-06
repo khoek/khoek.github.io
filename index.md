@@ -9,3 +9,5 @@ Hey there! I'm Keeley.
 - [Noncommutative vector bundles: The Greatest Hits™ of the K-theory of C*-algebras](essays/2018.s1.vbkt.report.pdf)
 
 - [Monoidal ∞-categories over ∞-operads, Elements of *Higher Algebra*](essays/2018.s2.infcat.essay.pdf)
+
+- [Transfers and tom Dieck splitting, via the Wirthmüller isomorphism](essays/2019.s1.esht.report.pdf)
