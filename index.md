@@ -1,4 +1,4 @@
-This is Keeley Hoek's webpage, housing various things which I have produced while at university.
+This my (Keeley Hoek's) webpage, housing various things which I have produced while at university.
 
 # Honours thesis
 
