@@ -4,6 +4,8 @@ Hey there!
 
 Here is my honours thesis, [Drinfeld centers for bimodule categories](res/2019.honours.thesis.pdf).
 
+At the conclusion of my honours year I gave a [colloqium-style talk](https://youtu.be/7YrDXW2uxMg) on some results from the second chapter.
+
 # Undergraduate reports/essays
 
 - [A spectral entrée to the Ergodic theory proper, lightly seasoned with a physical perspective](res/2017.s2.math3325.essay.pdf)
