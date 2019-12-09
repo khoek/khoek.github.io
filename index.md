@@ -4,7 +4,7 @@ This is Keeley Hoek's webpage, housing various things which I have produced whil
 
 Here is my honours thesis, [Drinfeld centers for bimodule categories](res/2019.honours.thesis.pdf). It was supervised by Professor [Scott Morrison](https://tqft.net) at the Australian National University.
 
-At the conclusion of my honours year I gave a [colloquium-style talk](https://youtu.be/7YrDXW2uxMg) on some results from the second chapter.
+At the conclusion of my honours year I gave a [colloquium-style talk](https://youtu.be/fcfduKYPUvw) on some results from the second chapter.
 
 # Undergraduate reports/essays
 
