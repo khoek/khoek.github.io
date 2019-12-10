@@ -1,4 +1,4 @@
-This my (Keeley Hoek's) webpage, housing various things which I have produced while at university.
+This my (Keeley Hoek's) webpage, housing various things which I have produced while at university. You can find my software projects [here](https://github.com/khoek/).
 
 # Honours thesis
 
